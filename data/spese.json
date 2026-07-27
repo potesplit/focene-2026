@@ -31,5 +31,17 @@
       "Lorenzo"
     ],
     "gruppoId": "gms35a97ypkz9df"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Spesa",
+    "importo": 180.39,
+    "partecipanti": [
+      "Carlo Pussymaster",
+      "Fabrizio",
+      "Filippo",
+      "Lorenzo"
+    ],
+    "gruppoId": "gms35eanhm4fb2f"
   }
 ]
