@@ -10,5 +10,15 @@
     "quote": {
       "Lorenzo": 9.95
     }
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Spazzolino+ dentrificio+bagnodoccia",
+    "importo": 4.68,
+    "partecipanti": [
+      "Carlo Pussymaster",
+      "Filippo"
+    ],
+    "gruppoId": "gms357hbca6s01g"
   }
 ]
