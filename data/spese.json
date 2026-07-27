@@ -20,5 +20,16 @@
       "Filippo"
     ],
     "gruppoId": "gms357hbca6s01g"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Birra",
+    "importo": 25.48,
+    "partecipanti": [
+      "Carlo Pussymaster",
+      "Filippo",
+      "Lorenzo"
+    ],
+    "gruppoId": "gms35a97ypkz9df"
   }
 ]
