@@ -1,11 +1,14 @@
 [
   {
     "nome": "Filippo",
-    "descrizione": "Rasoio per Lorenzo",
+    "descrizione": "Rasoio per Lorenzo [NE]",
     "importo": 9.95,
     "partecipanti": [
       "Lorenzo"
     ],
-    "gruppoId": "gms34yur0bfq03t"
+    "gruppoId": "gms34yur0bfq03t",
+    "quote": {
+      "Lorenzo": 9.95
+    }
   }
 ]
