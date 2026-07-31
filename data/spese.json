@@ -57,9 +57,9 @@
     "gruppoId": "gms35iaym2ci3fb"
   },
   {
-    "nome": "Flavio",
-    "descrizione": "spesa 2",
-    "importo": 25.67,
+    "nome": "Filippo coglione",
+    "descrizione": "benzina macchina Filippo",
+    "importo": 7,
     "partecipanti": [
       "Carlo Pussymaster",
       "Fabrizio",
@@ -67,6 +67,19 @@
       "Flavio",
       "Lorenzo"
     ],
-    "gruppoId": "gms99c3jx1rtv54"
+    "gruppoId": "gms99ab9gl7cwgc"
+  },
+  {
+    "nome": "Lorenzo",
+    "descrizione": "pizza",
+    "importo": 23.5,
+    "partecipanti": [
+      "Carlo Pussymaster",
+      "Fabrizio",
+      "Filippo coglione",
+      "Flavio",
+      "Lorenzo"
+    ],
+    "gruppoId": "gms99ea6y2t7yl7"
   }
 ]
