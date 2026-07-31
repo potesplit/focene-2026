@@ -81,5 +81,18 @@
       "Lorenzo"
     ],
     "gruppoId": "gms99fwfdjm2pq5"
+  },
+  {
+    "nome": "Lorenzo",
+    "descrizione": "pizza",
+    "importo": 23.5,
+    "partecipanti": [
+      "Carlo Pussymaster",
+      "Fabrizio",
+      "Filippo coglione",
+      "Flavio",
+      "Lorenzo"
+    ],
+    "gruppoId": "gms99k4ogtm1b61"
   }
 ]
